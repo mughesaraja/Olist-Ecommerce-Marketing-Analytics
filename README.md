@@ -17,8 +17,15 @@ Category Dominance: Health & Beauty and Watches & Gifts are the highest revenue-
 Infrastructure Gaps: Using the State Slicer, it is evident that states in the North and Northeast (e.g., AM, RR) experience wider delivery distributions and lower average review scores compared to the Southeast (SP, RJ), highlighting a need for localized logistics partnerships in remote regions.
 
 **Data & Methodology**
+Due to GitHub's file size limits, the raw data is not hosted here. 
 The dataset used in this analysis is the **Brazilian E-Commerce Public Dataset by Olist**. 
 
-* **Primary Data Source:** [Download CSVs from Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+* **Primary Data Source:** Download the Data: Kaggle - Olist Dataset [Download CSVs from Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 * The dataset used in this project is the Brazilian E-Commerce Public Dataset by Olist. Due to the file size (100MB+), the raw data is not hosted in this repository.
-* **Note on File Size:** Due to GitHub's file size limits, the raw `.csv` files are excluded via `.gitignore`. To replicate this report, download the files from the link above and refresh the data source in Power BI.
+
+**Key Findings**
+The Satisfaction Cliff: Customer sentiment stays high (4.5 stars) for early deliveries but drops instantly to 2.0 stars the moment a delivery is 1 day late.
+
+Conservative Estimates: 80% of orders arrive before the estimated date, suggesting Olist successfully manages expectations through "under-promising and over-delivering."
+
+Regional Disparity: States in the North/Northeast show significantly wider delivery tails compared to the Southeast, impacting local brand reputation.
