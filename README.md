@@ -21,7 +21,7 @@ The Long Tail Risk: While the average delay is low, "Outlier" deliveries (orders
 
 **2. Revenue & Sales Trends**
 Health & Beauty and Watches & Gifts emerge as the highest revenue-generating categories.
-![Product Category and Delay Distribution](Images/sales_and_operational_analysis.png)
+![Product Category and Delay Distribution](https://github.com/mughesaraja/Olist-Ecommerce-Marketing-Analytics/blob/main/Images/Sales%20%26%20Operational%20Analysis.png)
 *Figure 3: Revenue by category (left) and the distribution of delivery delays (right), highlighting the 'Long Tail' risk.*
 Consistent Growth: The platform showed a steady upward trajectory in revenue from 2016 through 2018, indicating successful market penetration in the Brazilian e-commerce space.
 Category Dominance: Health & Beauty and Watches & Gifts are the highest revenue-generating categories, suggesting a customer base that prioritizes personal care and high-value discretionary items.
