@@ -39,8 +39,12 @@ The dataset used in this analysis is the **Brazilian E-Commerce Public Dataset b
 * The dataset used in this project is the Brazilian E-Commerce Public Dataset by Olist. Due to the file size (100MB+), the raw data is not hosted in this repository.
 
 **Key Findings**
-The Satisfaction Cliff: Customer sentiment stays high (4.5 stars) for early deliveries but drops instantly to 2.0 stars the moment a delivery is 1 day late.
+The Satisfaction Cliff: Customer sentiment stays high (4.5 stars) for early deliveries but drops instantly to 2.0 stars the moment a delivery is even 24 hours late. This suggests that for Olist, "on-time" is the baseline for survival, not a bonus.
 
-Conservative Estimates: 80% of orders arrive before the estimated date, suggesting Olist successfully manages expectations through "under-promising and over-delivering."
+Conservative Estimates: 80% of orders arrive before the estimated date. This indicates that Olist successfully manages expectations through an "under-promise and over-deliver" logic, which maintains the 4.5-star average for the majority of the fleet.
 
-Regional Disparity: States in the North/Northeast show significantly wider delivery tails compared to the Southeast, impacting local brand reputation.
+The Long-Tail Paradox (Outliers): While review scores plummet after day 1, there is a slight "upward tick" in scores for extremely late orders (60+ days).
+ - Insight: This is likely Survivor Bias—customers who don't cancel after two months are often those who highly value the specific product.
+ - Recommendation: Management should ignore this slight uptick; the "Long Tail" of deliveries (20+ days late) remains the primary driver of 1-star reviews across all Brazilian states.
+
+Regional Disparity: Infrastructure gaps in the North/Northeast result in significantly wider delivery distributions compared to the Southeast, directly impacting local brand reputation and repeat purchase rates.
