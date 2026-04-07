@@ -12,7 +12,7 @@ My analysis reveals a critical 'Customer Satisfaction Cliff' where average revie
 The "Satisfaction Cliff": 
 My analysis reveals a critical 'Customer Satisfaction Cliff' where average review scores plummet from 4.5 to 2.0 stars as soon as a delivery exceeds its estimated arrival date.
 
-![Delivery Delay vs Review Score](Images/customer_insights.png)
+![Delivery Delay vs Review Score](https://github.com/mughesaraja/Olist-Ecommerce-Marketing-Analytics/blob/main/Images/Customer%20Insights.png)
 *Figure 2: Correlation analysis showing the sharp decline in customer sentiment at the 0-day delay threshold.*
 
 Analysis confirms a direct correlation between delivery speed and customer sentiment. While early deliveries maintain a 4.5+ star average, review scores plummet to 2.0 stars the moment an order is even 24 hours late.
