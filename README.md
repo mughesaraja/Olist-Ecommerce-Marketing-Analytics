@@ -39,6 +39,7 @@ The dataset used in this analysis is the **Brazilian E-Commerce Public Dataset b
 * The dataset used in this project is the Brazilian E-Commerce Public Dataset by Olist. Due to the file size (100MB+), the raw data is not hosted in this repository.
 
 **Key Findings**
+
 The Satisfaction Cliff: Customer sentiment stays high (4.5 stars) for early deliveries but drops instantly to 2.0 stars the moment a delivery is even 24 hours late. This suggests that for Olist, "on-time" is the baseline for survival, not a bonus.
 
 Conservative Estimates: 80% of orders arrive before the estimated date. This indicates that Olist successfully manages expectations through an "under-promise and over-deliver" logic, which maintains the 4.5-star average for the majority of the fleet.
