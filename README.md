@@ -67,8 +67,10 @@ Infrastructure Gaps: Using the State Slicer, it is evident that states in the No
 
 ## Data Architecture & SQL Modelling
 **Star Schema Design:** Structured the underlying data using SQL-style joins to unify 5 disparate tables (Orders, Payments, Products, Customers, and Geolocation).
+
 **Query Optimisation:** Ensured the model remains performant for Power BI by pre-aggregating key metrics, demonstrating a "Large Dataset" mindset.
 
+---
 
 **Data & Methodology**
 Due to GitHub's file size limits, the raw data is not hosted here. 
